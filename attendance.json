@@ -1,0 +1,35 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Dhairya Nagori",
+            "roll": "25BTRPW032",
+            "email": "nagoridhairya12@gmail.com"
+        }
+    ],
+    "attendance": [
+        {
+            "student_id": 1,
+            "subject": "Python Programming",
+            "room": "1",
+            "date": "2026-09-09",
+            "time": "22:06:12",
+            "status": "Present",
+            "session_token": "2p3SeOPT6C_JxfNwm6lEoB6l",
+            "verified_email": "nagoridhairya12@gmail.com",
+            "verified_ip": "49.200.56.66"
+        },
+        {
+            "student_id": 1,
+            "subject": "Python Programming",
+            "room": "1",
+            "date": "2026-09-09",
+            "time": "22:07:58",
+            "status": "Present",
+            "session_token": "tsXW_ee330T9TX8svsnaREei",
+            "verified_email": "nagoridhairya12@gmail.com",
+            "verified_ip": "49.200.56.66"
+        }
+    ],
+    "active_class": null
+}
